@@ -1,0 +1,4 @@
+﻿DVM,DEX_B2B_COM_LOGGING_LOOKUP,
+Key,Value,Description
+LOG_TOPIC_NAME_OUTBOUND,eu.shipment.3pl.formed,Topic name for logging OUTBOUND EDI messages
+LOG_TOPIC_NAME_INBOUND,eu.shipment.3pl.formed,
